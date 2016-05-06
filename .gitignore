@@ -1,0 +1,13 @@
+.classpath
+.project
+.gradle/
+.settings/
+.bin
+.build
+*~
+.class
+/target/
+/bin/conf/
+/bin/org/
+/bin/testng.xml
+/build/
